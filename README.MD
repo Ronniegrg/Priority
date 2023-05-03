@@ -14,7 +14,7 @@ To use this program, follow these steps:
 
 1. Clone the repository or download the files to your computer.
 2. Open a terminal or command prompt and navigate to the directory where the files are located.
-3. Run the `language_tracker.py` file using the command `python language_tracker.py`.
+3. Run the `index.py` file using the command `python index.py`.
 4. Follow the prompts to add or remove programming languages, list the current languages and their counts, or quit the program.
 
 The program will save the list of programming languages and their counts to a file called `languages.json` in the same directory as the program. If you delete this file, the program will create a new one the next time it is run.
