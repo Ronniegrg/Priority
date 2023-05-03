@@ -1,4 +1,6 @@
 # ignore languages.json file
 languages.json
 
+# ignore .vscode folder
+.vscode
 
